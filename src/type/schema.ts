@@ -6,7 +6,7 @@ export interface ClothingItem {
     addedAt: number
 }
 
-export interface GenerateOutfit {
+export interface GeneratedOutfit {
     id: string, 
     top_id: string,
     bottom_id: string,
